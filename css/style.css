@@ -1,0 +1,39 @@
+body {
+    font-size: 24px;
+    font-family: Roboto;
+    text-align: center;
+    background: radial-gradient(red, yellow, red, gray, red);
+}
+
+/* Styles for the title*/
+
+ .title {
+ 	color: white;
+    font-size: 30px;
+ 	margin-bottom: -25px;
+    font-weight: bold;
+}
+
+/* Styles for the Reset and Pause button*/
+
+.button{
+	box-shadow: 3px 4px 0px 0px #1564ad;
+	background:linear-gradient(to bottom, #79bbff 5%, #378de5 100%);
+	border-radius:5px;
+	border:1px solid #337bc4;
+	display:inline-block;
+	color:#ffffff;
+	font-size:17px;
+	font-weight:bold;
+	padding:8px 47px;
+}
+
+
+/* Styles for the footer*/
+
+.footer{
+margin-top: 120px;
+font-size:15px;
+color: white;
+}
+
